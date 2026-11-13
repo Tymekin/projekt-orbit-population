@@ -1,0 +1,5 @@
+Rozpakuj ZIP i uruchom:
+git clone group-02-orbit-population.bundle group-02-orbit-population
+cd group-02-orbit-population
+poetry install
+poetry run python main.py --preview 3
